@@ -2,6 +2,8 @@
 
 Master Typer is a platform  where a user can practice and improve their writing speed.
 
+live link - https://master-typer-daoz4cx3x-lakshyarana91.vercel.app/
+
 ## Features
 
 - It has a clean and user-friendly UI 
