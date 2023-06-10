@@ -28,7 +28,7 @@ MasterTyper requires ReactJs to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd mastertyper
+cd MasterTyper
 npm i
 npm start
 ```
